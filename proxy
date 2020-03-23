@@ -1,0 +1,4 @@
+[+] Docker installed [https://docs.docker.com/install/linux/docker-ce/debian/]
+[+] nftables installed
+    'apt install nftables'
+
